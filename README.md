@@ -51,11 +51,12 @@ be sure to back up the original exe first.
 
 example:
 ```bash
-#### linux
+# linux
 ./laa mygame.exe
 
-#### windows (powershell or cmd)
+# windows (powershell or cmd)
 .\laa.exe mygame.exe
+```
 
 ### License
 
