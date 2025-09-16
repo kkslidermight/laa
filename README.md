@@ -10,9 +10,9 @@ pure C, lightweight, no dependencies.
 
 ### how
 
-pre-compiled binaries for linux and windows are here:
+pre-compiled binaries for linux and windows are here, with instructions in the zip:
 
-[**releases page**](https://github.com/kkslidermight/laa/releases).
+[**releases page**](https://github.com/kkslidermight/laa/releases)
 
 ### build from source
 
